@@ -2,7 +2,7 @@
 
 ## Purpose of Analysis
 ###
-The purpose of this analysis is to determine if there is a bias in paid Amazon reviews as compared to unpaid Amazon reviews.  Using PySpark, ETL process was completed on the database https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Electronics_v1_00.tsv.gz.  The analysis looks at number of 5-star reviews for paid vs. unpaid reviews and the percentage of the the reviews that are deemed helpful to determine if there is an underlying bias.
+The purpose of this analysis is to determine if there is a bias in paid Amazon reviews as compared to unpaid Amazon reviews.  Using PySpark, the ETL process was completed on the database https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Electronics_v1_00.tsv.gz.  The analysis looks at number of 5-star reviews for paid vs. unpaid reviews and the percentage of the the reviews that are deemed helpful to determine if there is an underlying bias.
 
 ## Results
 ###
