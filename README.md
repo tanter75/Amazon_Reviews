@@ -19,7 +19,7 @@ For the unpaid reviews there were a total of 24,040 product reviews.  Of the unp
 - Total 5-star ratings: 11,005. 106 Vine reviews, 10,899 non-Vine reviews
 - Percentage of Vine 5-star reviews: 40.6%.  Percentage of non-Vine 5-star reviews: 45.3%
 
-Unpaid product reviews received 4.7% more 5 star reviews as compared to paid product reviews.
+Unpaid product reviews received 4.7% more 5-star reviews as compared to paid product reviews.
 
 ## Conclusion
 ###
